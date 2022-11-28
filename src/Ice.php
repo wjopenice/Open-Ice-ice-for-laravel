@@ -1,5 +1,5 @@
 <?php
-namespace Open\Ice;
+namespace Openice\Ice;
 use Illuminate\Session\SessionManager;
 use Illuminate\Config\Repository;
 class Ice

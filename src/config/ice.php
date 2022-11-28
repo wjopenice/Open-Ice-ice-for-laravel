@@ -2,7 +2,7 @@
 
 return [
     'options' => [
-        'name'=>'ice',
+        'name'=>'openice',
         'zh_name'=>'OPEN ICE扩展',
         'app_describe'=>'OPEN ICE扩展',
     ]

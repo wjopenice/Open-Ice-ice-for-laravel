@@ -1,5 +1,5 @@
 <?php
-namespace Open\Ice\Facades;
+namespace Openice\Ice\Facades;
 use Illuminate\Support\Facades\Facade;
 class Ice extends Facade
 {

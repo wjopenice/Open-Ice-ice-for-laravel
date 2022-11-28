@@ -1,8 +1,8 @@
 {
-    "name": "open/ice-for-laravel",
+    "name": "openice/ice-for-laravel",
     "autoload": {
         "psr-4": {
-            "Open\\Ice\\": "src/"
+            "Openice\\Ice\\": "src/"
         }
     },
     "authors": [

@@ -1,6 +1,6 @@
 <?php
 
-namespace Open\Ice;
+namespace Openice\Ice;
 
 use Illuminate\Support\ServiceProvider;
 
