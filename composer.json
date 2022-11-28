@@ -1,0 +1,15 @@
+{
+    "name": "open/ice-for-laravel",
+    "autoload": {
+        "psr-4": {
+            "Open\\Ice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wanjian",
+            "email": "a756412465@163.com"
+        }
+    ],
+    "require": {}
+}
