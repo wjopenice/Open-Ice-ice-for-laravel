@@ -1,2 +1,2 @@
-# Open-Ice-ice-for-laravel
+# ice-for-laravel
 composer插件demo

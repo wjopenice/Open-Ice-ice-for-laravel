@@ -1,5 +1,6 @@
 {
     "name": "openice/ice-for-laravel",
+    "description": "composer插件demo",
     "autoload": {
         "psr-4": {
             "Openice\\Ice\\": "src/"
@@ -11,5 +12,6 @@
             "email": "a756412465@163.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
